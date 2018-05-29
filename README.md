@@ -1,2 +1,4 @@
 # gentle_habit
-this is my first readme for the gentle habit
+
+This is a weekly schedule management app.
+The app is developed by AngularJs
